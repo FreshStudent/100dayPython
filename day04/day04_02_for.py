@@ -15,7 +15,7 @@ print(sum)
 另外一种实现方式
 """
 sum = 0
-for x in range(0,100):
+for x in range(1,100):
     if x%2 ==0:
         sum +=x
     print(sum)
